@@ -36,9 +36,7 @@ const char *filename= NULL;
 
 double total_ms = 0;
 
-int token_limit = 0;
-int curr_q2_size = 0;
-int packet_served = 0;
+
 int tokens_drop = 0;
 int  total_tokens_prod =0;
 int packets_drop = 0;
